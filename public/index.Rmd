@@ -1,0 +1,150 @@
+---
+title: "Matias Diner"
+author: Matias Diner
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: true
+# uncomment this line to produce HTML and PDF in RStudio:
+knit: pagedown::chrome_print
+---
+
+Aside
+================================================================================
+
+
+![Matias Diner](https://media-exp1.licdn.com/dms/image/D4D03AQGxisqEUF0i8A/profile-displayphoto-shrink_800_800/0/1668176235270?e=1675296000&v=beta&t=xuMHau2bmUmkwHUWWmyVWU7QGoVt899_tyDQc1OjZDI){width=80%}
+
+
+Contact Info {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i> matiasdiner@gmail.com
+
+- <i class="fa fa-github"></i> [ /matias-diner](https://github.com/)
+
+- <i class="fa fa-linkedin"></i> [ /matias-diner](https://www.linkedin.com/in/matias-diner/)
+
+- <i class="fa fa-phone"></i> +54 11-5607-1477
+
+- For more information, please contact me via email.
+
+
+Skills {#skills}
+--------------------------------------------------------------------------------
+
+- Experienced in statistical analysis, financial models and risk management.
+
+- Highly skilled in R, Python, SQL.
+
+
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+
+This resume was made with \
+the R package [**pagedown**](https://github.com/rstudio/pagedown).
+
+Last updated on `r Sys.Date()`.
+
+
+
+Main
+================================================================================
+
+Matias Diner {#title}
+--------------------------------------------------------------------------------
+
+### Economist - Data Scientist
+
+<!-- Aca se puede escribir algo -->
+
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### Buenos Aires University
+
+M.S. in Economical and Financial Risk Management
+
+N/A
+
+2022 - 2020
+
+Pending thesis
+
+### Buenos Aires University
+
+Economics Degree
+
+N/A
+
+2018 - 2014
+
+Honors: Cum Laude
+
+
+
+
+Professional Experience {data-icon=suitcase}
+--------------------------------------------------------------------------------
+
+### Data Scientist
+
+Ualá
+
+N/A
+
+Today - Oct-22
+
+::: concise
+- Collections modelling (ordering approach)
+- Credit scoring
+- Template development
+:::
+
+### Sr. Risk Analyst
+
+Wilobank
+
+N/A
+
+Oct-22 - Oct-20
+
+::: concise
+- Operational and credit risk management.
+- Expected credit loss IFRS9.
+- Business Plan. 
+- Stress testing
+:::
+
+### Ssr. Risk Consultant
+
+Grant Thornton
+
+N/A
+
+Oct-20 - Oct-18 
+
+::: concise
+- Financial risk modelling
+- Management reports 
+- KRI development
+- Cost modelling 
+:::
+
+
+
+
+Teaching Experience {data-icon=chalkboard-teacher}
+--------------------------------------------------------------------------------
+
+### Statistics
+
+Teaching assistant at UBA.
+
+N/A
+
+2019 - 2015 
+
+
