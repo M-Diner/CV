@@ -14,7 +14,7 @@ Aside
 ================================================================================
 
 
-![Matias Diner](https://media.licdn.com/dms/image/D4D03AQGxisqEUF0i8A/profile-displayphoto-shrink_800_800/0/1668176236139?e=1706745600&v=beta&t=3GFHI_SzTtQ8BLl6ESmdBzgZ8MsKB-YnViIDw0qm-sA){width=80%}
+![Matias Diner](https://media.licdn.com/dms/image/v2/D4D03AQGxisqEUF0i8A/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1668176236139?e=1732752000&v=beta&t=HXASpD5cAsq0DcLlxgKP9_l4R8eHDiDtGSc264DMhSQ){width=80%}
 
 
 Contact Info {#contact}
@@ -37,20 +37,18 @@ Skills {#skills}
 **Python**
 
 - Pandas 
+- Geopandas
 - Scikit-Learn
 
 **R** 
 
 - Tidyverse
 
-**Google Cloud Platform**
+**Google Cloud Platform** \
+**Oracle SQL**
 
 Disclaimer {#disclaimer}
 --------------------------------------------------------------------------------
-
-Last updated on `r Sys.Date()`.
-
-
 
 Main
 ================================================================================
@@ -87,10 +85,20 @@ N/A
 Honors: Cum Laude
 
 
-
-
 Professional Experience {data-icon=suitcase}
 --------------------------------------------------------------------------------
+
+### Data Scientist
+
+Link
+
+N/A
+
+Today - Jul-24
+
+
+- ATMs clustering models \
+- Business insights based on geospatial data\
 
 ### Data Scientist
 
@@ -98,7 +106,7 @@ Ualá
 
 N/A
 
-Today - Oct-22
+May 24 - Oct-22
 
 
 - Collections: customer ordering to optimize phone calls.\
@@ -114,12 +122,9 @@ N/A
 
 Oct-22 - Oct-20
 
-
-- Regulatory documentation.\
 - Operational and credit risk management.\
 - Expected credit loss IFRS9.\
-- Business Plan. \
-- Stress testing\
+- Business Plan and Stress Testing \
 
 
 ### Ssr. Risk Consultant
@@ -133,7 +138,6 @@ Oct-20 - Oct-18
 
 - Financial risk modelling\
 - Management reports \
-- KRI development \
 - Cost modelling \
 
 
