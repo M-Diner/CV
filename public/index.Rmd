@@ -18,31 +18,38 @@ Aside
 Contact Info {#contact}
 --------------------------------------------------------------------------------
 
-- <i class="fa fa-envelope"></i> matiasdiner@gmail.com  
-- <i class="fa fa-github"></i> [github.com/matias-diner](https://github.com/matias-diner)  
-- <i class="fa fa-linkedin"></i> [linkedin.com/in/matias-diner](https://www.linkedin.com/in/matias-diner/)  
-- <i class="fa fa-phone"></i> +54 11-5607-1477  
-
----
+- <i class="fa fa-envelope"></i> matiasdiner@gmail.com
+- <i class="fa fa-linkedin"></i> [linkedin.com/in/matias-diner](https://www.linkedin.com/in/matias-diner/)
+- <i class="fa fa-phone"></i> +54 11-5607-1477
 
 Skills {#skills}
 --------------------------------------------------------------------------------
 
-**Python**  
-- Pandas, GeoPandas, Scikit-Learn  
+*Cloud & Data*
 
-**Databases & Cloud**  
 - AWS
-- GCP
-- Oracle Databases  
+- Google Cloud Platform
+- Oracle Database
+- Git
 
----
+
+*Machine Learning*
+
+- Python
+- SQL
+- R
+- Scikit-learn
+- LightGBM
+- XGBoost
+- Model Deployment
+- Explainable AI
+
+
 
 Disclaimer {#disclaimer}
 --------------------------------------------------------------------------------
-For more information, please contact me via email.  
 
----
+For more information, please contact me via email.
 
 Main
 ================================================================================
@@ -50,78 +57,106 @@ Main
 Matias Diner {#title}
 --------------------------------------------------------------------------------
 
-### Economist · Data Scientist
+### Senior Data Scientist
 
-Data Scientist with a strong background in economics, risk modeling, and statistical analysis.  
-Experienced in fraud detection, credit scoring, and financial risk management.  
-
----
+Senior Data Scientist with 7+ years of experience developing machine learning solutions for fraud detection, credit risk and financial services.
+Experienced in building predictive models, designing production-ready analytical solutions and translating complex data into business impact. Strong background in fraud prevention, statistical modeling and risk analytics.
 
 Education {data-icon=graduation-cap data-concise=true}
 --------------------------------------------------------------------------------
 
-### University of Buenos Aires (UBA)  
-**M.S. in Economic and Financial Risk Management**  
-*2020 – Present (Thesis pending)*  
+### University of Buenos Aires (UBA)
 
-### University of Buenos Aires (UBA)  
-**B.A. in Economics**  
-*2014 – 2018*  
-Honors: Cum Laude  
+M.S. in Economic and Financial Risk Management
 
----
+N/A
+
+2020 - 2021
+
+Thesis pending.
+
+### University of Buenos Aires (UBA)
+
+B.A. in Economics
+
+N/A
+
+2014 - 2018
+
+Graduated with Honors (Cum Laude).
 
 Professional Experience {data-icon=suitcase}
 --------------------------------------------------------------------------------
 
-### Senior Data Scientist  
-**Prisma Medios de Pago**  
-*Oct 2024 – Present*  
+### Prisma Medios de Pago
 
-- Develop machine learning models to assess transaction risk and detect fraud.  
-- Lead feature engineering and model validation to improve fraud detection rates.  
+Senior Data Scientist
 
-### Data Scientist  
-**Link**  
-*Jul 2024 – Oct 2024*  
+N/A
 
-- Designed clustering models to optimize ATM network distribution.  
-- Provided geospatial business insights to support strategic decisions.  
+Oct 2024 - Present
 
-### Data Scientist  
-**Ualá**  
-*Oct 2022 – May 2024*  
+- Develop machine learning models for real-time transaction fraud detection.
+- Translate predictive models into production fraud prevention strategies combining ML and business rules.
+- Lead feature engineering, model validation and performance monitoring.
+- Partner with engineering teams to deploy and monitor production ML solutions.
 
-Key projects:  
-- Built a **credit scoring model from scratch**, including feature engineering and scorecard calibration.  
-- Designed a customer prioritization model to optimize collection calls.  
-- Performed RFM clustering based on payment transactions to improve customer segmentation.  
+### Link
 
-### Senior Risk Analyst  
-**Wilobank**  
-*Oct 2020 – Oct 2022*  
+Data Scientist
 
-- Managed operational and credit risk.  
-- Developed expected credit loss models under IFRS9.  
-- Conducted business plan stress testing for capital adequacy.  
+N/A
 
-### Semi-Senior Risk Consultant  
-**Grant Thornton**  
-*Oct 2018 – Oct 2020*  
+Jul 2024 - Oct 2024
 
-- Designed financial risk models for client portfolios.  
-- Produced management reports and dashboards for executives.  
-- Developed cost modeling frameworks for financial planning.  
+- Designed clustering models to optimize ATM network distribution.
+- Developed geospatial analytics supporting strategic business decisions.
 
----
+### Ualá
+
+Data Scientist
+
+N/A
+
+Oct 2022 - May 2024
+
+- Built an end-to-end credit scoring model, from feature engineering to scorecard calibration.
+- Developed customer prioritization models to optimize collection campaigns.
+- Designed customer segmentation models using RFM analysis.
+
+### Wilobank
+
+Senior Risk Analyst
+
+N/A
+
+Oct 2020 - Oct 2022
+
+- Developed Expected Credit Loss (IFRS 9) models.
+- Performed stress testing and capital adequacy analyses.
+- Managed credit and operational risk initiatives.
+
+### Grant Thornton
+
+Semi-Senior Risk Consultant
+
+N/A
+
+Oct 2018 - Oct 2020
+
+- Developed quantitative risk models for financial institutions.
+- Built executive dashboards and financial planning models.
 
 Teaching Experience {data-icon=chalkboard-teacher}
 --------------------------------------------------------------------------------
 
-### Statistics – Teaching Assistant  
-**University of Buenos Aires (UBA)**  
-*2015 – 2019*  
+### University of Buenos Aires (UBA)
 
-- Assisted in undergraduate courses on probability and statistics.  
-- Guided students through practical exercises and exam preparation.  
+Teaching Assistant - Statistics
 
+N/A
+
+2015 - 2019
+
+- Assisted undergraduate courses in Probability and Statistics.
+- Mentored students through practical assignments.
