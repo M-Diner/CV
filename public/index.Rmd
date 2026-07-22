@@ -13,7 +13,7 @@ knit: pagedown::chrome_print
 Aside
 ================================================================================
 
-![Matias Diner] (https://media.licdn.com/dms/image/v2/D4D03AQGxisqEUF0i8A/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1668176236139?e=1786579200&v=beta&t=7QUGcD-6q3Apw4_iC5X3CloLT6t1jVla8DIdMieLOJM) {width=80%}
+![Matias Diner](https://media.licdn.com/dms/image/v2/D4D03AQGxisqEUF0i8A/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1668176236139?e=1786579200&v=beta&t=7QUGcD-6q3Apw4_iC5X3CloLT6t1jVla8DIdMieLOJM){width=80%}
 
 Contact Info {#contact}
 --------------------------------------------------------------------------------
@@ -32,10 +32,9 @@ Skills {#skills}
 - Pandas, GeoPandas, Scikit-Learn  
 
 **Databases & Cloud**  
-- AwS
+- AWS
 - GCP
 - Oracle Databases  
-
 
 ---
 
@@ -53,7 +52,7 @@ Matias Diner {#title}
 
 ### Economist · Data Scientist
 
-Data Scientist with strong background in economics, risk modeling, and statistical analysis.  
+Data Scientist with a strong background in economics, risk modeling, and statistical analysis.  
 Experienced in fraud detection, credit scoring, and financial risk management.  
 
 ---
@@ -61,12 +60,11 @@ Experienced in fraud detection, credit scoring, and financial risk management.
 Education {data-icon=graduation-cap data-concise=true}
 --------------------------------------------------------------------------------
 
-### Buenos Aires University  
+### University of Buenos Aires (UBA)  
 **M.S. in Economic and Financial Risk Management**  
 *2020 – Present (Thesis pending)*  
 
-
-### Buenos Aires University  
+### University of Buenos Aires (UBA)  
 **B.A. in Economics**  
 *2014 – 2018*  
 Honors: Cum Laude  
@@ -97,7 +95,7 @@ Professional Experience {data-icon=suitcase}
 Key projects:  
 - Built a **credit scoring model from scratch**, including feature engineering and scorecard calibration.  
 - Designed a customer prioritization model to optimize collection calls.  
-- Performed RFM clustering based on payments transactions to improve customer segmentation.  
+- Performed RFM clustering based on payment transactions to improve customer segmentation.  
 
 ### Senior Risk Analyst  
 **Wilobank**  
